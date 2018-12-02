@@ -1,0 +1,18 @@
+.dropdown-menu {
+    height: 70px;
+    overflow-y: scroll;
+}
+
+.set_threshold {
+  margin-top: 1em;
+}
+
+.set_age {
+  margin-top: 1em;
+}
+
+.chart {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
